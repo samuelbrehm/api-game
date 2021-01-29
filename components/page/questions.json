@@ -10,7 +10,7 @@
       "type": "text",
       "required": true
     },
-    "anwser": {
+    "answer": {
       "type": "richtext",
       "required": false
     }
