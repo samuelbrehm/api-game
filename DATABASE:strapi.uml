@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>DATABASE</ID>
+  <OriginalElement>60b61751-469f-425b-a919-a42d96764c4a.DATABASE:strapi</OriginalElement>
+  <nodes>
+    <node x="1182.5" y="0.0">60b61751-469f-425b-a919-a42d96764c4a.TABLE:strapi.public.components_page_pricing_boxes</node>
+    <node x="754.76" y="546.36">60b61751-469f-425b-a919-a42d96764c4a.TABLE:strapi.public.components_page_section_concepts</node>
+    <node x="2954.5800000000004" y="1204.62">60b61751-469f-425b-a919-a42d96764c4a.TABLE:strapi.public.users-permissions_user</node>
+    <node x="2.7600000000001046" y="1304.48">60b61751-469f-425b-a919-a42d96764c4a.TABLE:strapi.public.components_page_section_about_projects</node>
+    <node x="976.0" y="1085.16">60b61751-469f-425b-a919-a42d96764c4a.TABLE:strapi.public.components_page_section_faqs_components</node>
+    <node x="1698.78" y="694.1000000000001">60b61751-469f-425b-a919-a42d96764c4a.TABLE:strapi.public.components_page_tech_icons</node>
+    <node x="1030.5" y="952.1600000000001">60b61751-469f-425b-a919-a42d96764c4a.TABLE:strapi.public.components_page_section_faqs</node>
+    <node x="548.88" y="963.2">60b61751-469f-425b-a919-a42d96764c4a.TABLE:strapi.public.components_page_section_teches</node>
+    <node x="2591.4599999999996" y="1212.84">60b61751-469f-425b-a919-a42d96764c4a.TABLE:strapi.public.users-permissions_role</node>
+    <node x="1128.5" y="199.0">60b61751-469f-425b-a919-a42d96764c4a.TABLE:strapi.public.components_page_pricing_boxes_components</node>
+    <node x="1603.0" y="199.0">60b61751-469f-425b-a919-a42d96764c4a.TABLE:strapi.public.landing_pages_components</node>
+    <node x="763.75" y="0.0">60b61751-469f-425b-a919-a42d96764c4a.TABLE:strapi.public.authors</node>
+    <node x="2196.24" y="1729.0999999999997">60b61751-469f-425b-a919-a42d96764c4a.TABLE:strapi.public.strapi_administrator</node>
+    <node x="494.38" y="1096.2">60b61751-469f-425b-a919-a42d96764c4a.TABLE:strapi.public.components_page_section_teches_components</node>
+    <node x="700.26" y="679.36">60b61751-469f-425b-a919-a42d96764c4a.TABLE:strapi.public.components_page_section_concepts_components</node>
+    <node x="2783.32" y="963.0600000000002">60b61751-469f-425b-a919-a42d96764c4a.TABLE:strapi.public.strapi_webhooks</node>
+    <node x="1455.44" y="909.24">60b61751-469f-425b-a919-a42d96764c4a.TABLE:strapi.public.components_page_questions</node>
+    <node x="0.0" y="0.0">60b61751-469f-425b-a919-a42d96764c4a.TABLE:strapi.public.upload_file</node>
+    <node x="1219.8200000000002" y="706.96">60b61751-469f-425b-a919-a42d96764c4a.TABLE:strapi.public.components_page_section_reviews_components</node>
+    <node x="1666.7" y="549.2">60b61751-469f-425b-a919-a42d96764c4a.TABLE:strapi.public.components_page_concepts</node>
+    <node x="318.0" y="66.0">60b61751-469f-425b-a919-a42d96764c4a.TABLE:strapi.public.components_page_section_aboutuses</node>
+    <node x="853.5" y="265.0">60b61751-469f-425b-a919-a42d96764c4a.TABLE:strapi.public.authors_components</node>
+    <node x="3054.82" y="963.0600000000001">60b61751-469f-425b-a919-a42d96764c4a.TABLE:strapi.public.core_store</node>
+    <node x="2483.0" y="959.4799999999999">60b61751-469f-425b-a919-a42d96764c4a.TABLE:strapi.public.strapi_users_roles</node>
+    <node x="456.7600000000001" y="1304.48">60b61751-469f-425b-a919-a42d96764c4a.TABLE:strapi.public.components_page_section_agenda</node>
+    <node x="2163.6600000000003" y="1195.04">60b61751-469f-425b-a919-a42d96764c4a.TABLE:strapi.public.users-permissions_permission</node>
+    <node x="1274.3200000000002" y="573.96">60b61751-469f-425b-a919-a42d96764c4a.TABLE:strapi.public.components_page_section_reviews</node>
+    <node x="1601.5" y="0.0">60b61751-469f-425b-a919-a42d96764c4a.TABLE:strapi.public.landing_pages</node>
+    <node x="36.0" y="507.0">60b61751-469f-425b-a919-a42d96764c4a.TABLE:strapi.public.upload_file_morph</node>
+    <node x="293.16" y="726.1999999999999">60b61751-469f-425b-a919-a42d96764c4a.TABLE:strapi.public.components_page_headers_components</node>
+    <node x="2200.3199999999997" y="1513.68">60b61751-469f-425b-a919-a42d96764c4a.TABLE:strapi.public.strapi_role</node>
+    <node x="385.5" y="298.0">60b61751-469f-425b-a919-a42d96764c4a.TABLE:strapi.public.components_page_section_aboutuses__authors</node>
+    <node x="57.25999999999999" y="956.3000000000001">60b61751-469f-425b-a919-a42d96764c4a.TABLE:strapi.public.components_page_section_modules</node>
+    <node x="2.759999999999991" y="1089.3000000000002">60b61751-469f-425b-a919-a42d96764c4a.TABLE:strapi.public.components_page_section_modules_components</node>
+    <node x="1490.64" y="1074.8399999999997">60b61751-469f-425b-a919-a42d96764c4a.TABLE:strapi.public.components_page_modules</node>
+    <node x="346.28" y="525.6600000000001">60b61751-469f-425b-a919-a42d96764c4a.TABLE:strapi.public.components_page_headers</node>
+    <node x="1185.7600000000002" y="1304.48">60b61751-469f-425b-a919-a42d96764c4a.TABLE:strapi.public.components_page_buttons</node>
+    <node x="1490.7600000000002" y="1304.48">60b61751-469f-425b-a919-a42d96764c4a.TABLE:strapi.public.components_page_reviews</node>
+    <node x="830.7600000000001" y="1304.48">60b61751-469f-425b-a919-a42d96764c4a.TABLE:strapi.public.components_page_social_links</node>
+    <node x="2564.0399999999995" y="1530.2400000000002">60b61751-469f-425b-a919-a42d96764c4a.TABLE:strapi.public.strapi_permission</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="60b61751-469f-425b-a919-a42d96764c4a.TABLE:strapi.public.authors_components" target="60b61751-469f-425b-a919-a42d96764c4a.TABLE:strapi.public.authors">
+      <point x="0.0" y="-85.5" />
+      <point x="68.25" y="107.5" />
+    </edge>
+    <edge source="60b61751-469f-425b-a919-a42d96764c4a.TABLE:strapi.public.components_page_section_aboutuses__authors" target="60b61751-469f-425b-a919-a42d96764c4a.TABLE:strapi.public.components_page_section_aboutuses">
+      <point x="-112.0" y="-52.5" />
+      <point x="0.0" y="41.5" />
+    </edge>
+    <edge source="60b61751-469f-425b-a919-a42d96764c4a.TABLE:strapi.public.components_page_section_concepts_components" target="60b61751-469f-425b-a919-a42d96764c4a.TABLE:strapi.public.components_page_section_concepts">
+      <point x="0.0" y="-85.5" />
+      <point x="0.0" y="41.5" />
+    </edge>
+    <edge source="60b61751-469f-425b-a919-a42d96764c4a.TABLE:strapi.public.components_page_pricing_boxes_components" target="60b61751-469f-425b-a919-a42d96764c4a.TABLE:strapi.public.components_page_pricing_boxes">
+      <point x="0.0" y="-85.5" />
+      <point x="0.0" y="74.5" />
+    </edge>
+    <edge source="60b61751-469f-425b-a919-a42d96764c4a.TABLE:strapi.public.components_page_section_teches_components" target="60b61751-469f-425b-a919-a42d96764c4a.TABLE:strapi.public.components_page_section_teches">
+      <point x="0.0" y="-85.5" />
+      <point x="0.0" y="41.5" />
+    </edge>
+    <edge source="60b61751-469f-425b-a919-a42d96764c4a.TABLE:strapi.public.components_page_section_faqs_components" target="60b61751-469f-425b-a919-a42d96764c4a.TABLE:strapi.public.components_page_section_faqs">
+      <point x="0.0" y="-85.5" />
+      <point x="0.0" y="41.5" />
+    </edge>
+    <edge source="60b61751-469f-425b-a919-a42d96764c4a.TABLE:strapi.public.components_page_section_aboutuses__authors" target="60b61751-469f-425b-a919-a42d96764c4a.TABLE:strapi.public.authors">
+      <point x="112.0" y="-52.5" />
+      <point x="721.5" y="240.0" />
+      <point x="832.0" y="240.0" />
+      <point x="-68.25" y="107.5" />
+    </edge>
+    <edge source="60b61751-469f-425b-a919-a42d96764c4a.TABLE:strapi.public.landing_pages_components" target="60b61751-469f-425b-a919-a42d96764c4a.TABLE:strapi.public.landing_pages">
+      <point x="0.0" y="-85.5" />
+      <point x="0.0" y="74.5" />
+    </edge>
+    <edge source="60b61751-469f-425b-a919-a42d96764c4a.TABLE:strapi.public.upload_file_morph" target="60b61751-469f-425b-a919-a42d96764c4a.TABLE:strapi.public.upload_file">
+      <point x="0.0" y="-85.5" />
+      <point x="0.0" y="228.5" />
+    </edge>
+    <edge source="60b61751-469f-425b-a919-a42d96764c4a.TABLE:strapi.public.components_page_headers_components" target="60b61751-469f-425b-a919-a42d96764c4a.TABLE:strapi.public.components_page_headers">
+      <point x="0.0" y="-85.5" />
+      <point x="0.0" y="52.5" />
+    </edge>
+    <edge source="60b61751-469f-425b-a919-a42d96764c4a.TABLE:strapi.public.components_page_section_modules_components" target="60b61751-469f-425b-a919-a42d96764c4a.TABLE:strapi.public.components_page_section_modules">
+      <point x="0.0" y="-85.5" />
+      <point x="0.0" y="41.5" />
+    </edge>
+    <edge source="60b61751-469f-425b-a919-a42d96764c4a.TABLE:strapi.public.components_page_section_reviews_components" target="60b61751-469f-425b-a919-a42d96764c4a.TABLE:strapi.public.components_page_section_reviews">
+      <point x="0.0" y="-85.5" />
+      <point x="0.0" y="41.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.7246376811594203" x="2655.34" y="1383.72" />
+  <SelectedNodes>
+    <node>60b61751-469f-425b-a919-a42d96764c4a.TABLE:strapi.public.users-permissions_user</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Key columns</Category>
+    <Category>Columns</Category>
+    <Category>Virtual foreign keys</Category>
+  </Categories>
+</Diagram>
+
